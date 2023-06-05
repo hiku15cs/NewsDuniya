@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "CSK vs GT Live Score, IPL 2023 Final: Rain spoils mood, chances of match dims - Hindustan Times",
+            "description": "CSK vs GT Live Score, IPL 2023 Final: Follow live score and latest updates of Chennai Super Kings and Gujarat Titans Today's IPL Match cricket scorecard.",
+            "url": "https://www.hindustantimes.com/cricket/csk-vs-gt-live-score-ipl-2023-final-chennai-super-kings-vs-gujarat-titans-ipl-ahmedabad-latest-scorecard-updates-101685261698522.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/05/28/1600x900/ip_1685290757710_1685290770924.jpg",
+            "publishedAt": "2023-05-28T16:29:51Z",
+            "content": "CSK: Ruturaj Gaikwad, Devon Conway, Shivam Dube, Ajinkya Rahane, Ambati Rayudu, MS Dhoni(w/c), Ravindra Jadeja, Moeen Ali, Deepak Chahar, Tushar Deshpande, Maheesh Theekshana, Matheesha Pathirana, Mi… [+599 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Siddaramaiah Gives Target To Karnataka Ministers For 2024 Lok Sabha Polls - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com/news",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2023-05-28T13:05:23Z",
+            "content": "If you are a climate change warrior or know someone who is doing incredible work in this space, send us your entries and we'll bring the most innovative stories to the world."
+        }
+    ]
+}
